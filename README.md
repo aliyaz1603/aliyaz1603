@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliyaz1603
+- 👋 Hi, I’m aliyaz1603
 - 👀 I’m interested in Cloud Migration and linux
 - 🌱 I’m currently explroing new technologies
 - 💞️ I’m looking to collaborate on Cloud Migration
